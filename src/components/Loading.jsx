@@ -41,7 +41,7 @@ const Loading = () => {
       if (currentIndex === loadingStates.length - 1) {
         clearInterval(interval);
         setTimeout(() => {
-          window.location.href = 'https://intelligentsiaclub.vercel.app/';
+          window.location.href = 'https://intelligentsiaclub.in/';
         }, 1000);
       }
     }, 2000);
