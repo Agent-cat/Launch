@@ -135,15 +135,11 @@ const Loading = () => {
         <div className="celebrate">
           <div className="animate-float">
             <img
-              className="w-80  object-contain pl-20  hover:scale-105 transition-transform duration-300"
-              src="/samyak.svg"
-              alt="Samyak"
+              className="w-[800px] object-contain hover:scale-105 transition-transform duration-300"
+              src="/femflareloo2.png"
+              alt="FemFlare"
             />
-            <img
-              className="w-96  mb-8 object-contain  hover:scale-105 transition-transform duration-300"
-              src="/logo.png"
-              alt="Samyak"
-            />
+
           </div>
 
           <p className="celebrate-sub">
